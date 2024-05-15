@@ -12,6 +12,6 @@ yarn dev
 pnpm dev
 ```
 
-![Homepage](./ecommerce-homepage.png)
-![Product info](./product-info.png)
-![full detail](./fulldetail.pngg)
+![Homepage](public/ecomerce-homepage.png)
+![Product info](public/product-info%20.png)
+![full detail](public/full%20detail.png)
